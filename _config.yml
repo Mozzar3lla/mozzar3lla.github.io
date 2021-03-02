@@ -1,0 +1,15 @@
+# Setup
+title:               Mozzarella
+tagline:             'A site with words'
+description:         'This is a bunch of rambling that is usually inside my head, put down in writing. I am no English major, so apologies in advance for my poor style.'
+baseurl:             ''
+paginate:            5
+permalink:           pretty
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version:             1.1.0
+google_analytics_id: #UA-XXXX-Y
