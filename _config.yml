@@ -2,7 +2,7 @@
 title:               Mozzarella
 tagline:             'A site with words'
 description:         'This is a bunch of rambling that is usually inside my head, put down in writing. I am no English major, so apologies in advance for my poor style.'
-baseurl:             ''
+url:                 'https://mozzar3lla.github.io/'
 paginate:            5
 permalink:           pretty
 
